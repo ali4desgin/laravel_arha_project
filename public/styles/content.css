@@ -1,0 +1,124 @@
+.user_info  img {
+    width: 150px;
+    float: left;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.user_info .details {
+    
+    margin-top: 30px;
+    color: #1d2054;
+}
+
+.user_info .details h4 {
+    font-weight: bold;
+    font-size: 22px;
+    color: #1d2054;
+    margin: 0px 0px;
+}
+
+.user_info .details p {
+    color: #1d2054;
+    line-height: 1.1em;
+    margin: 0px 0px;
+}
+
+
+
+.data-list {
+    margin-top: 40px;
+}
+
+
+.data-list .title {
+    font-weight: bolder;
+    color: #1d2054;
+    text-transform: uppercase;
+}
+
+
+.data-list .data {
+    margin:5px auto;
+    margin-top: 20px;
+    width: 80%;
+}
+.data-list .data .item {
+
+    margin-bottom: 20px;
+    border-bottom: 3px solid #adacac;
+}
+
+
+.data-list .data .item .tabs {
+    /*width: 100%;*/
+
+}
+
+
+.data-list .data .item .tabs li {
+    padding:10px;
+    background: #2bbfef;
+    vertical-align: center;
+    text-align: center;
+    text-justify: distribute-all-lines;
+    color: #1d2054;
+    font-weight: bolder;
+}
+
+
+.data-list .data .item .tabs li:nth-child(2) {
+    background-color: #faae40;
+    color: #1d2054;
+
+
+}
+
+
+
+.data-list .data .item .tabs li:nth-child(3) {
+    background-color: #1d2054;
+    color: #ffffff;
+}
+.data-list .data .item .tabs li:nth-child(4) {
+    background-color: #cdcdcd;
+    color: #1d2054;
+}
+
+
+
+.data-list .data .item .description {
+    padding: 20px;
+}
+
+.data-list .data .item .description .heading{
+    font-weight: bold;
+    color: #1d2054;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.data-list .data .item .description  .text {
+    font-size: 15px;
+}
+
+.add_btn {
+    border: 1px solid #a49f9f;
+    color: #a49f9f;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.add_btn svg {
+    margin-right: 5px;
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 1px;
+}
+
+.addplusicon {
+    margin-right: 5px;
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 1px;
+}
